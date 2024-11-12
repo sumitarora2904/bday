@@ -1586,12 +1586,11 @@ body {
 
 .cake_class{
 	position: fixed;
-	left: 40%;
+	left: 25%;
 	top:30%;
 	opacity: 1.0;
 	z-index: 9999;
-	width: 20%;
-	height: 40%;
+	width: 50%;
 	border-radius: 20px;
 }
 .control-panel {

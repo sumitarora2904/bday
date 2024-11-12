@@ -2006,6 +2006,7 @@ font-family: 'Tilt Neon', sans-serif;
 /* CSS */
 .button-85 {
   padding: 15px 20px;
+  margin: 25px;
   border: none;
   outline: none;
   color: rgb(255, 255, 255);
